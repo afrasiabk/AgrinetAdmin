@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#7ac144</color><!--C51162-388E3C-->
+    <color name="colorPrimaryText">#000000</color><!--ffffff-->
+    <color name= "colorTextOffBlack">#353839</color>
+    <color name= "colorComplimentary">#8B44C1</color>
+    <color name= "colorTextPrimaryVariant">#388E3C</color>
+    <color name="colorPrimaryDark">@color/colorPrimary</color><!--AD1457-->
+    <color name="colorPrimaryDarkk">#388E3C</color><!--ffffff-->
+    <color name="colorAccent">@color/colorPrimary</color><!--C51162-->
+    <color name="colorAccentText">#ffffff</color><!--ffffff-->
+    <color name="colorBackground">#ffffff</color><!--ffffff-->
+    <color name="colorBackgroundSec">#fbfbf7</color>
+
+</resources>
